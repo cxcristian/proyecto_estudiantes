@@ -1,5 +1,5 @@
 <?php
-include '../header.php';
+include '../Templates/header.php"';
 ?>
 
 <h1>Bienvenido a mi página</h1>
@@ -70,5 +70,5 @@ include '../header.php';
 </div>
 
 <?php
-include '../footer.php';
+include '../Templates/footer.php';
 ?>
